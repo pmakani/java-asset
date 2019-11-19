@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.115.1](https://www.github.com/googleapis/java-asset/compare/v0.115.0...v0.115.1) (2019-11-19)
+
+
+### Dependencies
+
+* update gax.version to v1.50.1 ([#19](https://www.github.com/googleapis/java-asset/issues/19)) ([bcf374c](https://www.github.com/googleapis/java-asset/commit/bcf374c3d0328c7640602dec1b7fd62ee18852d9))
+
 ## [0.115.0](https://www.github.com/googleapis/java-asset/compare/0.114.0...v0.115.0) (2019-10-22)
 
 
